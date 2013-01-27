@@ -8,6 +8,7 @@ bin/phantomjs
 moc_*
 qrc_*
 *.o
+*.obj
 *.swp
 *.pyc
 *.a
@@ -55,3 +56,4 @@ tools/dump_syms.app/
 # Build results
 [Dd]ebug*/
 [Rr]elease/
+[Bb]in/
